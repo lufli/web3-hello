@@ -2,13 +2,13 @@
 
 ## Summary
 
-This project help me familar with latest Web3 ecosystem and tools.
+This project helped me become familiar with the latest Web3 ecosystem and tooling.
 
 ## Things to Learn
 
-1. Write a simple Inbox contract using solidity, and write unit tests for the contract.
-2. Familar with hardhat, use hardhat cli to compile contract, run unit tests for contract, deploy it on test network.
-3. Learn some configs for hardhat.
+1. Wrote a simple Inbox smart contract in Solidity and developed unit tests for it.
+2. Gained hands-on experience with Hardhat, including compiling contracts, running unit tests, and deploying to a test network using the CLI.
+3. Learned how to configure various Hardhat settings for development and deployment.
 
 ## Command lines
 
