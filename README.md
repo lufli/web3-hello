@@ -4,6 +4,10 @@
 
 This project helped me become familiar with the latest Web3 ecosystem and tooling.
 
+## Update Jul 9, 2025
+
+Alternatively, contracts can be deployed using ethers.js or web3.js directly. To do so, I simply added a new deployment script that leverages ethers.js.
+
 ## Things to Learn
 
 1. Wrote a simple Inbox smart contract in Solidity and developed unit tests for it.
@@ -14,17 +18,23 @@ This project helped me become familiar with the latest Web3 ecosystem and toolin
 
 1. Compile contract
 ```shell
-npx run compile
+npm run compile
 ```
 
 2. Test contract
 ```shell
-npx run compile
+npm run test
 ```
 
-3. Deploy contract
+3. Deploy contract (ignition or ether.js)
 ```shell
-npx run compile
+npm run deploy
 ```
+Or 
+```shell
+npm run deploy-ethers
+```
+
+
 
 4. Check deployed contract [here](https://sepolia.etherscan.io/)
